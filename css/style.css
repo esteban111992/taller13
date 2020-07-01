@@ -1,0 +1,79 @@
+#cabecera{
+    background-color: black;
+    height: 50px;
+    padding: 20px;
+}
+
+body{
+    text-align: center;
+    background-color: gray;
+}
+
+h1{
+    color: #ffffff;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    word-spacing: 30px;
+}
+
+button{
+    background-color: #4CAF50; 
+    border-radius: 20px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  button:hover {
+    background-color: #0E5D04;
+  }
+
+  footer{
+    text-align: center;
+    border-radius: 15px;
+    border: black 5px solid;
+  }
+
+  .disp{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    width: 60px;
+    height: 50px;
+  }
+
+  .izq{
+    text-align: left;
+  }
+
+  .izq1{
+    text-align: left;
+    display: inline;
+    background-color: black;
+    color: white;
+    width: 60px;
+    height: 70px;
+  }
+
+  .ita{
+    color: darkblue;
+  }
+
+  .bor1{
+    border: black 5px solid;
+    background-color: white;
+    padding: 20px;
+    margin: 30px;
+  }
+
+  .bor2{
+    border: yellow 5px solid;
+    background-color: beige;
+    padding: 30px;
+    margin: 50px;
+    word-spacing: 15px;
+  }
